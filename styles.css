@@ -1,0 +1,30 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.main {
+  display: flex;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  width: 100%wv;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.aside {
+  width: max-content;
+}
+
+.aside img {
+  width: 350px;
+  height: 250px;
+}
+
+.content {
+  width: 80%;
+  padding: 20px 40px;
+}
+
+.contents {
+  padding: 10px 20px;
+}
