@@ -20,6 +20,11 @@ body {
   height: 250px;
 }
 
+.auth {
+  padding-left: 40px;
+  font-weight: bold;
+}
+
 .content {
   width: 80%;
   padding: 20px 40px;
